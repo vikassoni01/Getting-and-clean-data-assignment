@@ -22,6 +22,6 @@ acc - activity performed by the subject
 Activities Cat (categorical variable) - 
 WALKING : walking during the test, WALKING_UPSTAIRS: walking up a staircase, WALKING_DOWNSTAIRS : walking down a staircase SITTING: sitting during the test, STANDING : subject was standing, LAYING : laying down 
 
-All the measurements - 
-tBodyAccMeanX, tBodyAccMeanY,tBodyAccMeanZ,tBodyAccStdX,tBodyAccStdY,tBodyAccStdZ etc all of the measurement variales mentioned in the results.df.txt
+All the measurements- 
+time.domain.Bodyacceleration.-mean()-X, time.domain.Bodyacceleration.-mean()-Y, etc all of the measurement variables mentioned in the results.df.txt
 
