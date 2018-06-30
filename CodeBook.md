@@ -15,6 +15,7 @@ I created one R script called run_analysis.R that does the following.
 
 Variables - 
 subj - Subject 
+
 acc - activity performed by the subject
 
 Activities Cat (categorical variable) - 
