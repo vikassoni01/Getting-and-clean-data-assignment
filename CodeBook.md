@@ -11,3 +11,15 @@ I created one R script called run_analysis.R that does the following.
 
 
 ###e) From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+
+Variables - 
+subj - Subject 
+acc - activity performed by the subject
+
+Activities Cat (categorical variable) - 
+WALKING : walking during the test, WALKING_UPSTAIRS: walking up a staircase, WALKING_DOWNSTAIRS : walking down a staircase SITTING: sitting during the test, STANDING : subject was standing, LAYING : laying down 
+
+All the measurements - 
+tBodyAccMeanX, tBodyAccMeanY,tBodyAccMeanZ,tBodyAccStdX,tBodyAccStdY,tBodyAccStdZ etc all of the measurement variales mentioned in the results.df.txt
+
